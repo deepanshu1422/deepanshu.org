@@ -1,0 +1,42 @@
+[
+ {
+  "slug": "arena",
+  "kw": "ARENA",
+  "title": "Arena Skill",
+  "desc": "100 Claude agents aapas mein ladte hain jab tak ek perfect answer na bache. Reprompt karna band.",
+  "url": "https://github.com/deepanshu1422/arena-skill",
+  "tag": "Claude Skill"
+ },
+ {
+  "slug": "skill",
+  "kw": "SKILL",
+  "title": "Agent Reach",
+  "desc": "Apne AI agent ko poore internet ka access do — LinkedIn, X, YouTube, Reddit, bina kisi API key ke.",
+  "url": "https://github.com/deepanshu1422/Agent-Reach",
+  "tag": "Claude Code"
+ },
+ {
+  "slug": "flow",
+  "kw": "FLOW",
+  "title": "Ruflo",
+  "desc": "Ek saath 60+ specialised agents — queen agents team chalate hain, har task ke liye sahi model khud chunte hain.",
+  "url": "https://github.com/deepanshu1422/ruflo",
+  "tag": "Multi-agent"
+ },
+ {
+  "slug": "codes",
+  "kw": "CODES",
+  "title": "ChatGPT Secret Codes",
+  "desc": "ELI5, 80/20, Feynman, Quiz Me… ek keyword se kuch bhi fatak se seekho.",
+  "url": "https://github.com/deepanshu1422/chatgpt-secret-codes",
+  "tag": "ChatGPT"
+ },
+ {
+  "slug": "resume",
+  "kw": "RESUME",
+  "title": "Hiring Panel",
+  "desc": "7 Claude agents tumhara resume reject karne ki koshish karte hain — phir har galti fix karke naya resume dete hain.",
+  "url": "https://github.com/deepanshu1422/hiring-panel-skill",
+  "tag": "Claude Skill"
+ }
+]
